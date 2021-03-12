@@ -1,8 +1,12 @@
 # vuewedwed
 
 > A Vue.js project
+> 
+![Capture01](https://user-images.githubusercontent.com/55387327/110961104-0488e680-8382-11eb-9c20-e38868cbd981.PNG)
+
 
 ## Build Setup
+
 
 ``` bash
 # install dependencies
